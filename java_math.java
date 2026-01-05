@@ -38,7 +38,7 @@ public class java_math {
         fibonacci(10);
 
         System.out.println("--------------------------------------------------");
-        System.out.println("Java Math Operations Completed 🚀");
+        System.out.println("Java Math Operations Completed Successfully!");
         System.out.println("--------------------------------------------------");
     }
 
